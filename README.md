@@ -22,6 +22,6 @@ Dream Vacations UI is a responsive front-end template for hotel management and b
 2. Open `index.html` in your browser to preview the project.
 
 ## Contributing
-Feel free to fork this repository and contribute. Open an issue if you encounter any problems!
+Feel free to fork this repository and contribute. Open an issue if you encounter any problems!  
 
 ---
