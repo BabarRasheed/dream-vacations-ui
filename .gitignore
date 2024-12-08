@@ -1,0 +1,66 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE and Editor Directories
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+
+# Dependency Directories
+node_modules/
+bower_components/
+jspm_packages/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build Output
+dist/
+build/
+out/
+public/
+
+# Environment Files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Performance and Debugging
+*.pid
+*.seed
+*.pid.lock
+
+# Backup Files
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
+
+# Front-end Specific
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+
+# Misc
+.sass-cache/
+.webpack/
